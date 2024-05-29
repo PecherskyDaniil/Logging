@@ -65,7 +65,7 @@ last_timestamp=time.time()
 for i in range(45):
     cur_time=time.time()
     if cur_time-last_timestamp>30:
-        logger.error("No messages!")
+        logger.warning("No messages!")
         last_timestamp=time.time()
     time.sleep(2)
 client.disconnect()
