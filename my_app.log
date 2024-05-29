@@ -1,0 +1,32 @@
+2024-04-14 07:07:23,089 - serverid_logger - DEBUG - Server is started!
+2024-04-14 07:07:24,760 - serverid_logger - INFO - getting id 'Pech7fe7a0f781ce90e78b7e7e8875b533fb'
+2024-04-14 07:07:24,761 - publisher_logger - INFO - Connecting to broker broker.emqx.io
+2024-04-14 07:07:24,827 - publisher_logger - DEBUG - MQTTErrorCode.MQTT_ERR_SUCCESS
+2024-04-14 07:07:24,828 - publisher_logger - INFO - Publishing started
+2024-04-14 07:07:24,829 - publisher_logger - INFO - state is offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:25,098 - publisher_logger - INFO - Connected to MQTT Broker!
+2024-04-14 07:07:26,577 - serverid_logger - INFO - getting id 'Pech34fab6818416c68fb6380457a52160c8'
+2024-04-14 07:07:26,741 - subscriber_logger - DEBUG - Connecting to broker broker.emqx.io
+2024-04-14 07:07:26,806 - subscriber_logger - INFO - Subcribing is started
+2024-04-14 07:07:26,831 - publisher_logger - INFO - state is offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:27,073 - subscriber_logger - INFO - Connected to MQTT Broker!
+2024-04-14 07:07:28,834 - publisher_logger - INFO - state is offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:29,898 - subscriber_logger - INFO - received message = 'offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:30,836 - publisher_logger - INFO - state is offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:31,900 - subscriber_logger - INFO - received message = 'offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:32,837 - publisher_logger - INFO - state is onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:33,901 - subscriber_logger - INFO - received message = 'onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:34,839 - publisher_logger - INFO - state is onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:35,903 - subscriber_logger - INFO - received message = 'onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:36,842 - publisher_logger - INFO - state is onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:37,907 - subscriber_logger - INFO - received message = 'onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:38,845 - publisher_logger - INFO - state is onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:39,909 - subscriber_logger - INFO - received message = 'onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:40,848 - publisher_logger - INFO - state is offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:41,912 - subscriber_logger - INFO - received message = 'offPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:42,850 - publisher_logger - INFO - state is onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb - machine Pech7fe7a0f781ce90e78b7e7e8875b533fb - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:43,920 - subscriber_logger - INFO - received message = 'onPech - machine - Pech7fe7a0f781ce90e78b7e7e8875b533fb' - machine -Pech34fab6818416c68fb6380457a52160c8 - host = 2577e8bcd1055492412ed5c8a69bb516
+2024-04-14 07:07:44,851 - publisher_logger - INFO - Publishing is ended
+2024-04-14 07:07:56,836 - subscriber_logger - ERROR - No messages!
+2024-04-14 07:08:26,858 - subscriber_logger - ERROR - No messages!
+2024-04-14 07:08:56,892 - subscriber_logger - INFO - Subscribing is ended
